@@ -1,4 +1,3 @@
-from re import sub
 import subprocess, sys
 while true:
     subprocess.Popen([sys,executable,
